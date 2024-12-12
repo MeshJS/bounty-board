@@ -33,7 +33,7 @@ Requirements:
 - Browse Open Bounties: Check the [Mesh Bounty Board](https://github.com/orgs/MeshJS/projects/2/views/2) for open tasks that suit your skills and interests.
 - Express Your Interest: If you find a bounty you want to tackle, navigate to its comments section and leave a comment stating your intention to work on it.
 - Await Admin Approval: A bounty admin will review your request and, if approved, will assign the bounty to you. Make sure to monitor the comment section for any updates.
-- Work on the Bounty: Once assigned, begin working on the deliverables. Use the comments section to ask questions or seek clarification as you proceed. The Mesh team is here to support you.
+- Work on the Bounty: Once assigned, begin working on the deliverables. Use the comments section to ask questions or seek clarification as you proceed.
 - Submit Your Work: When you’ve completed the bounty, share your results in the comments section.
 - Review & Approval: The Mesh team will review your submission.
 - If approved, the bounty will be marked as “Done” and you’ll receive your rewards.
