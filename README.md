@@ -9,7 +9,6 @@ Mesh bounties are open tasks posted to the community. Anyone who sees a match be
 All bounties are incentivized with multiple types of rewards:
 
 - ADA: The primary currency of Cardano, offered as financial compensation.
-- Mesh Minute Tokens: A Cardano-native token we mint to recognize the time and effort spent by contributors. These tokens serve as a social proof of contribution and will play a more prominent role as the bounty program matures.
 
 ## Why Does Mesh Host Bounties?
 While the Mesh core team is dedicated to building on Cardano, we’re a relatively small group. We see great potential in collaborating with the larger Cardano community—individuals who are equally passionate and talented. By hosting bounties, we aim to:
