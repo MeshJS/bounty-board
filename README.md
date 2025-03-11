@@ -1,31 +1,29 @@
 # Mesh Bounty Board
-Welcome at Mesh Bounty Board, a initiative to help grow the Cardano ecosystem while rewarding contributors for their efforts. 
-Here, you can find a variety of open tasks (bounties), from software development to content creation, all focused on strengthening the Mesh platform and the Cardano ecosystem as a whole.
+Welcome at Mesh Bounty Board, where we host bounties
 
 ## What Are Mesh Bounties?
-Mesh bounties are open tasks posted to the community. Anyone who sees a match between their skill set and a bounty’s requirements can claim ownership and complete the work. Our bounties cover a broad range of areas—primarily coding and development, but also educational materials, tutorials, videos, and articles. Although our core focus is on technical contributions, we welcome all forms of value addition.
+Mesh bounties are open tasks posted to the community. Anyone who sees a match between their skill set and a bounty requirements can request ownership and complete the work. Our bounties will ideally cover a broad range of areas—primarily coding and development, but also educational materials, tutorials, videos and whatever we come up with.
 
 ## Rewards
-All bounties are incentivized with multiple types of rewards:
-
-- ADA: The primary currency of Cardano, offered as financial compensation.
+All bounties are incentivized in ADA:
+> ADA: The primary currency of Cardano, offered as financial compensation for successfully completing bounties.
 
 ## Why Does Mesh Host Bounties?
-While the Mesh core team is dedicated to building on Cardano, we’re a relatively small group. We see great potential in collaborating with the larger Cardano community—individuals who are equally passionate and talented. By hosting bounties, we aim to:
+While the Mesh core team is dedicated to building on Cardano, we’re a relatively small group and well, we often face the limits of what we can do by our own. Yet, we see some good potential in inviting skilled community members to engage in tasks wich help up building Mesh.  
 
-- Distribute the workload among community contributors and the core team.
-- Lower the barriers for newcomers and experienced developers to engage with Mesh and the Cardano ecosystem.
-- Identify and foster long-term relationships with skilled contributors.
-- Experiment with collective, community-driven innovation.
+## By hosting bounties, we aim to:
+
+- Distribute workload among community contributors and the core team.
+- Propose easy gig-based tasks for Mesh community (anyone hanging around on our github & discord).
+- Building up some long-term relationships with skilled contributors.
 
 
 ## How to Get Started
-Requirements:
+All you need to work on bounties is:
 
 - A GitHub account.
-- A Cardano-compatible wallet with a valid addr1 address (exchange addresses are not accepted).
-- Complete this form to register your GitHub username and Cardano address.
-
+- A Cardano wallet with a valid addr1
+> exchange addresses are not accepted*
 
 ## Process:
 
